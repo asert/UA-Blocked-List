@@ -5,7 +5,6 @@ www.donbass.media
 enigma.ua
 www.enigma.ua
 drweb.ua
-drweb.ua
 www.drweb.ua
 on-line.lg.ua
 www.on-line.lg.ua
@@ -144,8 +143,6 @@ www.vk.com
 tech1-cdn.com
 tech2-cdn.com
 lug-info.com
-lug-info.com
-www.lug-info.com
 www.lug-info.com
 wmtransfer.com
 mini.wmtransfer.com
@@ -215,8 +212,6 @@ www.asssr.info
 ukrpress.info
 www.ukrpress.info
 novoross.info
-novoross.info
-www.novoross.info
 www.novoross.info
 novorus.info
 www.novorus.info
@@ -228,7 +223,6 @@ rabotavtaxi.pro
 www.rabotavtaxi.pro
 go338.top
 www.go338.top
-sevastopol.press
 sevastopol.press
 www.sevastopol.press
 seychas.press
@@ -370,8 +364,6 @@ www.mybook.ru
 tfomsrk.ru
 www.tfomsrk.ru
 kinopoisk.ru
-kinopoisk.ru
-www.kinopoisk.ru
 www.kinopoisk.ru
 au-donetsk.ru
 www.au-donetsk.ru
@@ -401,8 +393,6 @@ www.ozon.ru
 kanal-o.ru
 www.kanal-o.ru
 auto.ru
-auto.ru
-www.auto.ru
 www.auto.ru
 starobeshevo.ru
 www.starobeshevo.ru
@@ -512,8 +502,6 @@ www.novorossia-tv.ru
 yalta-tv.ru
 www.yalta-tv.ru
 republic-tv.ru
-republic-tv.ru
-www.republic-tv.ru
 www.republic-tv.ru
 karusel-tv.ru
 www.karusel-tv.ru
@@ -572,7 +560,6 @@ webmoney.ru
 wmsc1.webmoney.ru
 wmsc2.webmoney.ru
 wmsc3.webmoney.ru
-wmsc4.webmoney.ru
 wmsc4.webmoney.ru
 arbitrage.webmoney.ru
 wiki.webmoney.ru
@@ -663,14 +650,10 @@ www.mshiplnr.su
 merlnr.su
 www.merlnr.su
 mprlnr.su
-mprlnr.su
-www.mprlnr.su
 www.mprlnr.su
 mslnr.su
 www.mslnr.su
 nslnr.su
-nslnr.su
-www.nslnr.su
 www.nslnr.su
 mintranslnr.su
 www.mintranslnr.su
